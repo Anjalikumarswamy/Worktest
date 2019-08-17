@@ -1,0 +1,29 @@
+/*Practice Example */
+Create "School Management System" - "Student, Teachers and Funds"
+
+//Money Management system for school 
+
+1. Keep track of students total fees.
+2. Fees already paid.
+3. Teachers Salary
+
+//School contains
+1. Teachers
+2. Students
+3. Total money earnerd
+4. Total money Spent
+
+//Teacher conatins
+1. Teacher ID
+2. Teachers Name
+3. Salary
+
+//Student contain
+1. Students ID
+2. Students Name
+3. Grade
+4. fees to be paid. 
+5. Total fees
+
+
+with OOP concepts 
