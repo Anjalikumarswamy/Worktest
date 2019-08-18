@@ -1,0 +1,31 @@
+Inheritance.txt
+
+It is a very important OOP contcept, it is a mechanism in Java by which one class is allowed to inherit the features(fields and methods) of another class. 
+
+A Class can be declared to inherit (aka. derive) from another class. 
+
+Super Class - Base Class, the class whose features are inherited.
+
+Sub Class - The class that inherits the other class. It has add its own fields and methods. 
+
+KeyWord "extends" is used.
+
+Created a Bicycle class which is the super class with fields
+1. Gear 
+2. Speed
+
+Has one contructor 
+Has three methods
+1.applyBrake
+2.speedUp 
+3.toString()
+
+Created a subclass MountainBikes which is the sub class with the fields
+1. SeatHeight
+
+Has one constructor using super and this keyword.
+Has two method 
+1. setHeight
+2.toString() - overridding the method from Bicycle to get more details.
+
+Class Inheritance has the main class. 

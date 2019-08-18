@@ -1,0 +1,26 @@
+Association.txt
+
+It's a relation between two seperate classes which establishes through their objects.
+
+
+2 types
+1. Aggregation 
+2. Compostition 
+
+For aggregation 
+Created 
+student class
+Department class 
+Institute Class
+
+using the ArrayList added the students and department in the main class.
+
+
+Compostion 
+Created
+1. Book Class
+2. Library class.
+
+Difference between Aggregation and Compostion 
+Aggregation implies to a relationship where the child can exist idependently of the parent. It is "Has- a" relation. This is weak association.
+Compostion  implies to a relationship where the child cannot exist idependently of the parent. It is "Part-of" relation. This is strong association. 

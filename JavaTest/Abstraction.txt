@@ -1,0 +1,20 @@
+Abstraction.txt
+
+Data Abstraction can be defined as the process of identigying only the required characteristics of an object ignoring the irrelevant details. 
+
+In Java, abstraction is achieved by interfaces and abstract classes. 
+
+abstract keyword is used. 
+
+Created a abstarct class shape with the fields
+1. color.
+
+With two abstract methods
+abatract double area 
+public abstarct String toString
+
+with one constructor
+
+Using inheritance created 2 classes circle and rectanngle. 
+Implemented overriding on methods area and toString
+Have one contrsuctor each. 
